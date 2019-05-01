@@ -8,4 +8,6 @@ To install all needed libs, just do :
 
 How to use :
 --------
-Copy the .py file into your working directory, then just execute it. There is no arguments, you'll have to write in the terminal.
+Copy the .py file into your working directory, then just execute it.  
+<code>python3 simple_pattern_finder.py/code>  
+There is no arguments, you'll have to write in the terminal.
