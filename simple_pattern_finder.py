@@ -1,7 +1,7 @@
 """
-A soft version of pattern_finder, with
-You'll need odfpy (1.4.0) and python-docx (0.8.10) and PyPDF2 (1.26.0) libs
-No arguments, only input() questions
+A soft version of pattern_finder, without image search.
+You'll need odfpy (1.4.0) and python-docx (0.8.10) and PyPDF2 (1.26.0) libs.
+No arguments, only input() questions.
 """
 
 import os
