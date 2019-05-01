@@ -68,7 +68,7 @@ def launch_analysis(dir=".", full_dir =".", pattern="", search_options=None,
         print("Rechercher aussi dans tous les sous-dossiers ? : o/n")
         in_sf = True if input().lower() == "o" else False
         print("File/Folder names to ignore (splited by a slash): ")
-        forbidden = input().lower().split("/")
+        forbidden = input().split("/")
         search_options = in_sf, in_pdf#.git/env_pattern_finder
     in_sf, in_pdf = search_options
     for file_or_dir in os.listdir("."):
