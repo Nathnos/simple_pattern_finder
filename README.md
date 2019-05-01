@@ -11,3 +11,7 @@ How to use :
 Copy the .py file into your working directory, then just execute it.  
 <code>python3 simple_pattern_finder.py/code>  
 There is no arguments, you'll have to write in the terminal.
+
+Need to find pattern in the text of images ?
+--------
+Check out the full version here : https://github.com/Nathnos/pattern_finder
