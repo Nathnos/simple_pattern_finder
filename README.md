@@ -1,4 +1,6 @@
 # Simple pattern finder
+Grep, but with less features.
+
 A script that tries to find a specific pattern in all files of a folder (and optionally its subfolders). Capital or lowercase are not taken into acount.
 
 Installation :
